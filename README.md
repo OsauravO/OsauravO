@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/sauravo_o" target="blank"><img src="https://img.shields.io/twitter/follow/sauravo_o?logo=twitter&style=for-the-badge" alt="sauravo_o" /></a> </p>
 
-- 🌱 I’m currently learning **Rust**
-
 - 📫 How to reach me **saurav1hasyo@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FjiYzGzt8brlfanIwRUTNg_VhGESPm3k/view?usp=sharing](https://drive.google.com/file/d/1FjiYzGzt8brlfanIwRUTNg_VhGESPm3k/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1p8RrZtTHBds6UsDWD8ZqN0BDhN50A9vD/view?usp=sharing](https://drive.google.com/file/d/1p8RrZtTHBds6UsDWD8ZqN0BDhN50A9vD/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
