@@ -14,7 +14,7 @@
 <a href="https://twitter.com/sauravo_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sauravo_o" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saurav sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurav sharma" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sauravo_o" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sauravo_o" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/osauravo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="osauravo" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/0saurav0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="osauravo" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saurav0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurav0_0" height="30" width="40" /></a>
 </p>
 
